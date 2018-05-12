@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5304
     wikipedia: http://en.wikipedia.org/wiki/Francis_Burnand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26281#Happy-Thought-Hall
 gutenberg_issued: '2008-08-12'
 gutenberg_type: Text
 identifiers:
